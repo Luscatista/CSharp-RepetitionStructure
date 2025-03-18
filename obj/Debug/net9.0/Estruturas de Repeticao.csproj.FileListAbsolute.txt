@@ -1,0 +1,15 @@
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\bin\Debug\net9.0\Estruturas de Repeticao.exe
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\bin\Debug\net9.0\Estruturas de Repeticao.deps.json
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\bin\Debug\net9.0\Estruturas de Repeticao.runtimeconfig.json
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\bin\Debug\net9.0\Estruturas de Repeticao.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\bin\Debug\net9.0\Estruturas de Repeticao.pdb
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.AssemblyInfo.cs
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.sourcelink.json
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\refint\Estruturas de Repeticao.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.pdb
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\Estruturas de Repeticao.genruntimeconfig.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\Estruturas de Repeticao\obj\Debug\net9.0\ref\Estruturas de Repeticao.dll
