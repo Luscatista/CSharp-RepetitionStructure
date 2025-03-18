@@ -32,3 +32,6 @@ for(int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{numero} * {i} é igual a : {numero * i}");
 }
+
+Console.WriteLine();
+Console.WriteLine();
