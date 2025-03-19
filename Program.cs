@@ -36,33 +36,86 @@
 //Console.WriteLine();
 
 
-Console.WriteLine("5. Média de notas");
-Console.WriteLine("Solicite notas ao usuário (entre 0 e 10) até que ele insira um número inválido. Depois, exiba a média das notas.");
+//Console.WriteLine("5. Média de notas");
+//Console.WriteLine("Solicite notas ao usuário (entre 0 e 10) até que ele insira um número inválido. Depois, exiba a média das notas.");
+//Console.WriteLine();
+
+//int nota;
+//int soma = 0;
+//int x = 1;
+//Console.WriteLine("Digite sua primeira nota:");
+//nota = int.Parse(Console.ReadLine());
+
+//if (nota >= 0 && nota <= 10)
+//{
+//    soma += nota;
+//    while (nota >= 0 && nota <= 10)
+//    {
+//        Console.WriteLine("Digite sua nota:");
+//        nota = int.Parse(Console.ReadLine());
+//        if(nota > 0 && nota < 10)
+//        {
+//            soma += nota;
+//            x++;
+//        }
+//    };
+//    Console.WriteLine("Voce digitou uma nota invalida");
+//    Console.WriteLine($" Sua média é igual a {soma / x} de acorda com as notas informadas.");
+//}
+//else
+//{
+//    Console.WriteLine("Nota inválida");
+//}
+
+//Console.WriteLine("6. Somatório de números positivos");
+//Console.WriteLine("Escreva um programa que peça números ao usuário e some-os, parando quando o usuário inserir um número negativo.");
+//Console.WriteLine();
+
+//int somaTotal = 0;
+//int num;
+
+//do
+//{
+//    Console.WriteLine("Digite um numero positivo:");
+//    num = int.Parse(Console.ReadLine());
+//    if(num > 0)
+//    {
+//        somaTotal += num;
+//    }
+//} while (num > 0);
+
+//Console.WriteLine($"A soma de todos os numeros positivos informados é igual a {somaTotal}");
+
+Console.WriteLine();
+Console.WriteLine("Avançados");
+Console.WriteLine("7. Número primo");
+Console.WriteLine("Peça ao usuário um número e determine se ele é primo.");
 Console.WriteLine();
 
-int nota;
-int soma = 0;
-int x = 1;
-Console.WriteLine("Digite sua primeira nota:");
-nota = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite um numero para determinar se ele é primo.");
+int primo = int.Parse(Console.ReadLine());
+int x = 0;
 
-if (nota >= 0 && nota <= 10)
+if(primo != 0 && primo % primo == 0 && primo % 1 == 0)
 {
-    soma += nota;
-    while (nota >= 0 && nota <= 10)
+    for(int i = 2; i < primo; i++)
     {
-        Console.WriteLine("Digite sua nota:");
-        nota = int.Parse(Console.ReadLine());
-        if(nota > 0 && nota < 10)
+        if(primo % i == 0)
         {
-            soma += nota;
+            Console.WriteLine($"Nao é um numero primo. O numero {i} pode dividir o numero informado e resulta em {primo / i}.");
             x++;
+            break;
         }
-    };
-    Console.WriteLine("Voce digitou uma nota invalida");
-    Console.WriteLine($" Sua média é igual a {soma / x} de acorda com as notas informadas.");
+    }
+    if(x == 0)
+    {
+        Console.WriteLine("É um número primo.");
+    }
 }
 else
 {
-    Console.WriteLine("Nota inválida");
+    Console.WriteLine("Nao é um numero primo.");
+
 }
+
+
